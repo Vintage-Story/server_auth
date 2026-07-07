@@ -7,6 +7,7 @@
     ],
     "description": "Authentication system for servers",
     "version": "1.0.10",
+    "networkVersion": "1.0.9",
     "dependencies": {
         "game": ""
     }
